@@ -1,0 +1,17 @@
+{
+  "name": "solution_sumit_dixit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "solution": "node src/index.js"
+  },
+  "author": "Sumit Dixit",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  }
+}
